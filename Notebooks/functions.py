@@ -41,7 +41,7 @@ y_dim = 50
 ldim_i = 2
 ldim_a = 3
 lbda = 2
-norm_pola = np.load('../Data Files/norm_polarization.npy')
+norm_pola = np.load('Curiosity_Driven_RL_for_PFM/Data Files/norm_polarization.npy')
 image, spectra = norm_pola[:,:,25], norm_pola[:,:,49:]
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
