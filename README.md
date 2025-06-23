@@ -8,7 +8,7 @@ Aditya Vatsavai<sup>1,2</sup> Ganesh Narasimha<sup>1</sup>, Yongtao Liu<sup>1</s
 
 3 Department of Physics, National Cheng Kung University, Tainan 70101, Taiwan
 
-4 Department of Materials Science and Engineering, Tokyo Institute of Technology, Yokohama, 226-8502, Japan
+4 Department of Materials Science and Engineering, Institute of Science Tokyo, Yokohama, 226-8502, Japan
 
 5 Physical Sciences Division, Pacific Northwest National Laboratory (PNNL), Richland, Washington, USA – 99352
 
