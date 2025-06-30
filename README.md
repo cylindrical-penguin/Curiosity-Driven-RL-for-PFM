@@ -1,6 +1,6 @@
 <b>Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy</b>
 
-Aditya Vatsavai<sup>1,2</sup> Ganesh Narasimha<sup>1</sup>, Yongtao Liu<sup>1</sup>, Jan-Chi Yang<sup>3</sup>, Hiroshi Funakubo<sup>4</sup>, Maxim Ziatdinov<sup>5</sup> and Rama Vasudevan<sup>1</sup>
+Aditya Vatsavai<sup>1,2</sup> Ganesh Narasimha<sup>1</sup>, Yongtao Liu<sup>1</sup>, Jawad Chowdhury<sup>1</sup>, Jan-Chi Yang<sup>3</sup>, Hiroshi Funakubo<sup>4</sup>, Maxim Ziatdinov<sup>5</sup> and Rama Vasudevan<sup>1</sup>
 
 1 Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA - 37831
 
@@ -8,7 +8,7 @@ Aditya Vatsavai<sup>1,2</sup> Ganesh Narasimha<sup>1</sup>, Yongtao Liu<sup>1</s
 
 3 Department of Physics, National Cheng Kung University, Tainan 70101, Taiwan
 
-4 Department of Materials Science and Engineering, Tokyo Institute of Technology, Yokohama, 226-8502, Japan
+4 Department of Materials Science and Engineering, Institute of Science Tokyo, Yokohama, 226-8502, Japan
 
 5 Physical Sciences Division, Pacific Northwest National Laboratory (PNNL), Richland, Washington, USA – 99352
 
